@@ -76,13 +76,15 @@ Forest의 모든 사용자는 회원가입과 로그인을 하고 자유롭게 �
 
 ## 💻 주요 기능
 
+<!-- 메인 -->
+
 ![image](https://github.com/WonjunS/Forest/assets/93713151/8fb6acdd-b366-4d6e-b8d4-ebcd63276aab)
 
 ![image](https://github.com/WonjunS/Forest/assets/93713151/1e109324-06e3-4c6f-b9e6-c785ef9635d8)
 
-![image](https://github.com/WonjunS/Forest/assets/93713151/def730f9-83c0-4381-9c14-a7206f443a89)
 
-![image](https://github.com/WonjunS/Forest/assets/93713151/03aa8915-c0a3-4b5a-bedd-43c974a6c747)
+
+<!-- 랜드 -->
 
 ![image](https://github.com/WonjunS/Forest/assets/93713151/2ba8f4a2-0c0b-4ffc-882f-11ab83bf90f6)
 
@@ -108,6 +110,45 @@ Forest의 모든 사용자는 회원가입과 로그인을 하고 자유롭게 �
 
 
 
-<p> 가든 </p>
+<!-- 나무 -->
+
+![image](https://github.com/WonjunS/Forest/assets/93713151/f29153fe-1374-43e7-8236-5fb3ef445060)
+
+![image](https://github.com/WonjunS/Forest/assets/93713151/50e45492-22a7-445c-abbc-b2014dd3981f)
+
+![image](https://github.com/WonjunS/Forest/assets/93713151/fb1bbeee-8ce2-4501-b232-5f34093e3c84)
+
+![image](https://github.com/WonjunS/Forest/assets/93713151/f0363ec0-58be-4f96-99b9-86025c744d3d)
+
+
+
+<!-- 열매 -->
+
+![image](https://github.com/WonjunS/Forest/assets/93713151/80641cb4-41cd-438d-8666-fe674893b7bc)
+
+![image](https://github.com/WonjunS/Forest/assets/93713151/ac69823c-2e43-46f1-9269-1c6b556ab0ad)
+
+![image](https://github.com/WonjunS/Forest/assets/93713151/526e5e22-a94e-45dc-905b-233cea732002)
+
+![image](https://github.com/WonjunS/Forest/assets/93713151/5fc1e72c-f9e0-497e-b265-70b355272005)
+
+
+<!-- 오픈채팅 -->
+
+![image](https://github.com/WonjunS/Forest/assets/93713151/416d61e5-0d2d-4086-98d4-3302308b4bee)
+
+
+<!-- 후원 -->
+
+![image](https://github.com/WonjunS/Forest/assets/93713151/fc448c53-66f2-48fc-940e-3d6b711e2d5d)
+
+
+
+
+<!-- 유저 -->
+
+![image](https://github.com/WonjunS/Forest/assets/93713151/def730f9-83c0-4381-9c14-a7206f443a89)
+
+![image](https://github.com/WonjunS/Forest/assets/93713151/03aa8915-c0a3-4b5a-bedd-43c974a6c747)
 
 ![image](https://github.com/WonjunS/Forest/assets/93713151/8266a4c5-3730-4d22-9eba-e6ba7fcbf839)
